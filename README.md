@@ -4,7 +4,6 @@ MakeTrip is a travel and tourism website designed to showcase beautiful destinat
 
 The website features a beautiful travel-themed homepage, booking section, travel packages, best places, contact form, and footer.
 
--------------------------------------------
 
 ✨ Website Features
 
