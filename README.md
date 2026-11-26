@@ -104,29 +104,47 @@ MakeTrip/
 
 Home Page
 
-"Home Page" (screenshots/home.png)
+"Home Page" <img width="1920" height="1080" alt="home png" src="https://github.com/user-attachments/assets/388f7293-0ae6-4813-8091-29eed3db5957" />
+
 
 Book Your Place
 
-"Booking Section" (screenshots/booking.png)
+"Booking Section" <img width="1920" height="1080" alt="booking png" src="https://github.com/user-attachments/assets/9ab78971-48a0-47ef-87c5-bfea50851e3d" />
+
 
 Best Packages
 
-"Best Packages" (screenshots/packages.png)
+"Best Packages" <img width="1905" height="977" alt="packages png" src="https://github.com/user-attachments/assets/fe7a54c4-87a7-4992-a8fa-95e829bc14b8" />
+
 
 Explore Best Places
 
-"Best Places" (screenshots/best-places.png)
+"Best Places" <img width="1920" height="1080" alt="best-places png" src="https://github.com/user-attachments/assets/f13ec0d4-83db-4488-a51a-c3edb4922e23" />
+
+<img width="1920" height="1080" alt="best-places2 png" src="https://github.com/user-attachments/assets/a4959690-d0e1-41a9-9690-596094504cc3" />
+
+<img width="1920" height="1080" alt="best-places3 png" src="https://github.com/user-attachments/assets/b2424a95-a702-486f-aa2f-7a59f01bbde9" />
+
 
 Contact Us
 
-"Contact Section" (screenshots/contact.png)
+"Contact Section" <img width="1920" height="1080" alt="contact png" src="https://github.com/user-attachments/assets/1c5a525b-42f9-478a-83a1-e9953d589502" />
+
+
+Footer Section
+<img width="1920" height="1080" alt="footer png" src="https://github.com/user-attachments/assets/a2764992-dbfe-459c-9149-bc1fb627a72b" />
+
 
 🎥 Project Demo
 
 Watch the complete demonstration of the MakeTrip website:
 
-<!-- Add your demo GIF or video link here -->
+
+https://github.com/user-attachments/assets/4cd86b7a-78a8-4eec-9f6d-67715c15e36a
+
+
+Live Demo 
+https://pragya158.github.io/Travel-Website/
 
 🚀 How to Run Locally
 
